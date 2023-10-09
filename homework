@@ -1,6 +1,6 @@
 import java.until.Scanner;
 
-public class homework21 {
+public class book2ch2.homework21 {
 public static void main(string[] args) {
 Scanner scanner = new Scanner(system.in);
 double c_temperature = scanner.nextDouble();
