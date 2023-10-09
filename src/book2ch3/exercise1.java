@@ -16,8 +16,7 @@ public class exercise1 {
         } else if (d == 0) {
             double root = -b / (2 * a);
             System.out.println("The equation has 1 root:" + root);
-        }
-        else {
+        } else {
             double root1 = (-b + Math.pow(d, 0.5)) / (2 * a);
             double root2 = (-b - Math.pow(d, 0.5)) / (2 * a);
             System.out.println("The equation has 2 roots: " + root1 + ", " + root2);
