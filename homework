@@ -1,0 +1,10 @@
+import java.until.Scanner;
+
+public class homework21 {
+public static void main(string[] args) {
+Scanner scanner = new Scanner(system.in);
+double c_temperature = scanner.nextDouble();
+double f_temperature = (9.0 / 5) * c_temperature +32;
+system.out.println(fahrenheit: " + f_temperature);
+  }
+}
