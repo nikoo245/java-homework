@@ -1,3 +1,5 @@
+package book2ch2;
+
 import java.util.Scanner;
 
 public class homework23
